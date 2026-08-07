@@ -18,17 +18,3 @@ int main()
 	printf("Element not found at any position in the given array.");
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -28,16 +28,3 @@ int main()
     printf("Element %d not found in the array.",key);
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
